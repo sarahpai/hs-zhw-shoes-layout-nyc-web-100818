@@ -23,5 +23,47 @@
 }
 
 /* Posititoning Classes */
+.border_right{
+  float: right;
+  width: 32%;
+}
 
+.border_left{
+  float: left;
+  width: 32%;
+}
 
+.border_middle{
+  float: middle;
+  width: 32%;
+}
+
+#lady-bugs {
+  -webkit-columns: 100px 2; /* Chrome, Safari, Opera */
+   -moz-columns: 100px 2; /* Firefox */
+   columns: 100px 2;
+   column-count:3;
+   -webkit-column-width: 100px; /* Chrome, Safari, Opera */
+    -moz-column-width: 100px; /* Firefox */
+    column-width: 100px;
+}
+
+#skater-shoes {
+  -webkit-columns: 100px 2; /* Chrome, Safari, Opera */
+   -moz-columns: 100px 2; /* Firefox */
+   columns: 100px 2;
+   column-count:3;
+   -webkit-column-width: 50px; /* Chrome, Safari, Opera */
+    -moz-column-width: 50px; /* Firefox */
+    column-width: 50px;
+}
+
+#baby-shoes{
+  -webkit-columns: 100px 2; /* Chrome, Safari, Opera */
+   -moz-columns: 100px 2; /* Firefox */
+   columns: 100px 2;
+   column-count:3;
+   -webkit-column-width: 100px; /* Chrome, Safari, Opera */
+    -moz-column-width: 100px; /* Firefox */
+    column-width: 100px;
+}
